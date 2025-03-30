@@ -4,7 +4,7 @@
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #include <bitcoin-build-config.h> // IWYU pragma: keep
-
+#include "rebase.h"
 #include <validation.h>
 
 #include <arith_uint256.h>
